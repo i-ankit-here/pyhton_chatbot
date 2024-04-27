@@ -1,0 +1,666 @@
+{
+    "intents": [
+        {
+            "title": "Reach Us>",
+            "url": "https://www.nitj.ac.in/admin/location.html",
+            "content": [
+                "Reach Us",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "title": "Institute Flyers>",
+            "url": "https://www.nitj.ac.in/admin/prospectus.html",
+            "content": [
+                "Institute Flyers"
+            ]
+        },
+        {
+            "title": "Chairperson>",
+            "url": "https://www.nitj.ac.in/admin/chairperson.html",
+            "content": [
+                "Chairperson: Prof. Binod Kumar Kanaujia"
+            ]
+        },
+        {
+            "title": "Organisational Chart>",
+            "url": "https://www.nitj.ac.in/admin/oc.html",
+            "content": [
+                "Organizational\n                    Chart"
+            ]
+        },
+        {
+            "title": "Registrar>",
+            "url": "https://www.nitj.ac.in/admin/registrar.html",
+            "content": [
+                "Registrar",
+                "Prof. Ajay Bansal",
+                "Registrar (I/C), Dr. B R Ambedkar National\n                        Institute of\n                        Technology, Jalandhar",
+                "Email: registrar@nitj.ac.in",
+                "Tel No.: +91-181-2690324 (O)",
+                "EPABX: +91-181-2690301, 2690453, 3082000",
+                "Extn. : 1201 (O), 1202 (PA)",
+                "Fax: +91-181-2690320"
+            ]
+        },
+        {
+            "title": "NITJ Rankings & Awards>",
+            "url": "https://www.nitj.ac.in/admin/ranking.html",
+            "content": [
+                "NITJ Rankings & Awards"
+            ]
+        },
+        {
+            "title": "Administrative Officers>",
+            "url": "https://www.nitj.ac.in/admin/administrative_officers.html",
+            "content": [
+                "Administrative Officers"
+            ]
+        },
+        {
+            "title": "NIT Council>",
+            "url": "https://www.nitj.ac.in/admin/council.html",
+            "content": [
+                "NIT Council",
+                "In order to co-ordinate the activities of all NITs, the Central Government has constituted a council."
+            ]
+        },
+        {
+            "title": "Hostel Administration>",
+            "url": "https://www.nitj.ac.in/admin/hostels.html",
+            "content": [
+                "Hostel Administration",
+                "Chief Warden",
+                "Deputy Chief Warden",
+                "Wardens"
+            ]
+        },
+        {
+            "title": "Senate>",
+            "url": "https://www.nitj.ac.in/admin/senate.html",
+            "content": [
+                "Senate",
+                "Members of Senate",
+                "The Professor appointed or recognized as such by the institute for the\n              purpose of imparting instructions\n              in the\n              institute.",
+                "All the Professor of NIT, Jalandhar",
+                "04 Student Members (2 UG, 1 PG, 1 PhD)"
+            ]
+        },
+        {
+            "title": "Board of Governors>",
+            "url": "https://www.nitj.ac.in/admin/governors.html",
+            "content": [
+                "Board of\n                    Governors",
+                "\nChairperson",
+                "Prof. Binod Kumar Kanaujia",
+                "Director",
+                "Dr B R Ambedkar National Institute of Technology Jalandhar",
+                "director@nitj.ac.in",
+                "Punjab - 144008",
+                "\nMembers",
+                "Prof. Binod Kumar Kanaujia",
+                "Director",
+                "Dr B R Ambedkar National Institute of Technology Jalandhar",
+                "director@nitj.ac.in",
+                "Jalandhar - 144008",
+                "Nominee of the Ministry of Education (Shiksha Mantralaya),\n                        Govt.\n                        of India dealing with Technical Education",
+                "Ms. Saumya Gupta",
+                "Joint Secretary (NITs),",
+                "Ministry of Education (Shiksha Mantralaya),",
+                "Government of India",
+                "New Delhi - 110001",
+                "Nominee of the Ministry of Education (Shiksha Mantralaya),\n                        Govt. of India dealing with Finance",
+                "Sh. Sanjog Kapoor",
+                "Joint Secretary (NITs),",
+                "Joint Secretary and Financial Advisor",
+                "Integrated Finance Bureau",
+                "Ministry of Education (Shiksha Mantralaya), Government of India,",
+                "120-C, Shastri Bhawan, New Delhi-110001",
+                "Nominee of the State Government",
+                "Nominee of the State Government",
+                "Nominee of the Council",
+                "Nominee of the Council",
+                "Director of Indian Institute of Technology nominated by the\n                        Central Government",
+                "Prof. Rajeev Ahuja",
+                "Director",
+                "Indian Institute of Technology Ropar",
+                "Nangal Road, Rupnagar, Punjab-140001",
+                "Nominee of the Institute Senate",
+                "Prof. A Mukhopadhyay",
+                "Professor",
+                "Textile Technology",
+                "Dr B R Ambedkar National Institute of Technology Jalandhar",
+                "Nominee of the Institute Senate",
+                "Dr. Monica Sikka",
+                "Associate Professor",
+                "Textile Technology",
+                "Dr B R Ambedkar National Institute of Technology Jalandhar",
+                "Secretary",
+                "Prof. Ajay Bansal",
+                "Registrar (I/C) & Secretary (Board of Governors)",
+                "Dr B R Ambedkar National Institute of Technology, Jalandhar",
+                "Jalandhar, Punjab - 144008"
+            ]
+        },
+        {
+            "title": "Finance Committee>",
+            "url": "https://www.nitj.ac.in/admin/finance_committee.html",
+            "content": [
+                "Finance Committee"
+            ]
+        },
+        {
+            "title": "Virtual Tour>",
+            "url": "https://www.nitj.ac.in/admin/virtualtour.html",
+            "content": [
+                "Virtual Tour"
+            ]
+        },
+        {
+            "title": "Technical Officers>",
+            "url": "https://www.nitj.ac.in/admin/technical_officers.html",
+            "content": [
+                "Technical Officers"
+            ]
+        },
+        {
+            "title": "Newsletters>",
+            "url": "https://www.nitj.ac.in/admin/newsletter.html",
+            "content": [
+                "Newsletters"
+            ]
+        },
+        {
+            "title": "Equal Opportunities and SC/ST/OBC/PwD Cell>",
+            "url": "https://www.nitj.ac.in/admin/sc-cell.html",
+            "content": [
+                "Equal\n                    Oppurtunities and SC/ST/OBC/PwD Cell",
+                "SC ST cell has been constituted in the institute as per the instructions of Government of India, Ministry\n                of Personal, Public Grievances and Pension (Department of Personal and Training) vide office memorandum\n                No. 43011/153/2010-Estt. (Res) dated 4 th January, 2013.",
+                "Functions of SC-ST Cell",
+                "Online Complaint Portal",
+                "Chairman",
+                "Dr Uma Shanker",
+                "Associate Professor",
+                "Department of Chemistry",
+                "Dr B R Ambedkar NIT, Jalandhar",
+                "shankeru@nitj.ac.in",
+                "0181-2690301-2258",
+                "Liaison Officers",
+                "Dr Deepti\n                                                Kakkar",
+                "Associate Professor",
+                "Department of Electronics and Comm. Engg.",
+                "Dr B R Ambedkar NIT, Jalandhar",
+                "scstcell@nitj.ac.in",
+                "0181-2690301",
+                "Dr Uma\n                                                Shanker",
+                "Associate Professor",
+                "Department of Chemistry",
+                "Dr B R Ambedkar NIT, Jalandhar",
+                "scstcell@nitj.ac.in",
+                "0181-2690301",
+                "Dr Nitin\n                                                Naresh Pandhare",
+                "Assistant Professor",
+                "Department of Chemical Engineering",
+                "Dr B R Ambedkar NIT, Jalandhar",
+                "scstcell@nitj.ac.in",
+                "0181-2690301",
+                "Dr Anupam\n                                                Yadav",
+                "Assistant Professor",
+                "Department of Chemical Engineering",
+                "Dr B R Ambedkar NIT, Jalandhar",
+                "scstcell@nitj.ac.in",
+                "0181-2690301",
+                "Ms.\n                                                Gurpreet Kaur",
+                "Office Staff",
+                "SC/ST Cell",
+                "scstcell@nitj.ac.in",
+                "0181-2690301, Ext.: 1271"
+            ]
+        },
+        {
+            "title": "Building and Works Committee>",
+            "url": "https://www.nitj.ac.in/admin/building_works.html",
+            "content": [
+                "Building & Works\n          Committee"
+            ]
+        },
+        {
+            "title": "Proctorial Cell>",
+            "url": "https://www.nitj.ac.in/admin/proctorial-cell.html",
+            "content": [
+                "Proctorial Cell"
+            ]
+        },
+        {
+            "title": "Student Grievances Cell>",
+            "url": "https://www.nitj.ac.in/admin/student-g-cell.html",
+            "content": [
+                "Student\n                    Grievances Cell",
+                "The Student’s Grievance Cell (SGC) desires to promote and maintain a conducive and unprejudiced\n                    educational environment. The Cell enables a student to express feelings by initiating and pursuing\n                    the grievance procedure in accordance with the rules and regulations of the Institute. ‘Student’s\n                    Grievance Cell’ enquires and analyses the nature and pattern of the grievances in a strictly\n                    confidential manner. Emphasis on procedural fairness has been given with a view to “the right to be\n                    heard and right to be treated without bias”",
+                "Functions of Students Grievance Cell",
+                "Issues not to be entertained by SGC",
+                "Students are expected to approach the grievance cell only if they have exhausted all the normal\n                    channels such a Warden/Chief Warden/Dean/HOD/Section Head etc. and still feel that their problem is\n                    very genuine, and it can be sorted out within the existing rules/framework of the institute. Please\n                    keep it in mind that you don’t bring unjustified and inappropriate grievances to the grievance cell.\n                    Such grievances must be sent through email with a written request accompanied with all the relevant\n                    documents/previous communication done with routine channels etc."
+            ]
+        },
+        {
+            "title": "Staff Grievances Cell>",
+            "url": "https://www.nitj.ac.in/admin/staff-g-cell.html",
+            "content": [
+                "Staff Grievances\n                    Cell",
+                "Chairman",
+                "Dr Raman Bedi",
+                "Associate Professor",
+                "Mechanical Engineering",
+                "bedir@nitj.ac.in",
+                "Members",
+                "Dr. R. K. Sunkaria",
+                "Associate Professor",
+                "Electronics and Comm. Engg.",
+                "sunkariark@nitj.ac.in",
+                "Ms. Poonam Arora",
+                "Assistant Registrar (Audit & Billing Section)",
+                "araudit@nitj.ac.in",
+                "Mr. Harmesh Bhatt",
+                "Office Staff",
+                "Convener"
+            ]
+        },
+        {
+            "title": "RTI Cell>",
+            "url": "https://www.nitj.ac.in/admin/rti-cell.html",
+            "content": [
+                "RTI Cell",
+                "CPIO",
+                "Prof Ajay Bansal",
+                "Registrar",
+                "cpio@nitj.ac.in",
+                "Tel No: 0181-2690324",
+                "Appellate Authority",
+                "Dr Arvind K Agnihotri",
+                "Professor (HAG) & Head",
+                "Civil Engineering",
+                "appellate_authority@nitj.ac.in",
+                "APIO",
+                "Administrative Matters",
+                "Mr Vijay Narayan",
+                "Assistant Registrar (Establishment)",
+                "arestablishment@nitj.ac.in",
+                "Academic Matters",
+                "Mr Neeraj",
+                "Assistant Registrar (Academics & Legal)",
+                "aracademic@nitj.ac.in",
+                "Other Links",
+                "RTI Replies"
+            ]
+        },
+        {
+            "title": "Biotechnology>",
+            "url": "https://departments.nitj.ac.in/dept/bt/home",
+            "content": ["Biotechnology(BT)","The Department of Biotechnology, NIT Jalandhar is one of the fifteen Departments of the Institute. The Department has an MOU with the University of Florence, Italy for collaborative research in “Biotechnology and Process Engineering in Biofuel Production”. The Department organized GIAN international summer term course on May 16-25, 2016. Within a span of fifteen years of commencement of B.Tech, M. Tech, and Ph.D. programs, the Department has achieved results that reflect upon the growth pattern of the intellectual potential embedded with inter-disciplinary knowledge, human values, and professional ethics among the youth, aspirants of becoming Engineers and Technologists, so that they contribute to the field of Biotechnology in particular and to the society in general. The department has well-experienced and dedicated faculty with inter-disciplinary research activities."]
+        },
+        {
+            "title": "Chemistry>",
+            "url": "https://departments.nitj.ac.in/dept/cy/home",
+            "content": ["Chemistry(CY)","About Department of Chemistry: The Department of Chemistry NIT- Jalandhar is one of the Seventeen Departments of the Institute. The coherent, cohesive and homely environment of the Department is attributed to the students, faculty and staff with tremendous potential and opportunities to grow academically, socially, emotionally and spiritually. The Department started functioning in 1989 for teaching undergraduate (B Tech) students. M Sc and Ph D Programs were initiated in July 2006. Department is striving to emerge as a premier Centre of Chemistry teaching and research of the country. Within a span of seventeen years of commencement of post graduate classes, the Department has achieved results which reflect upon the growth pattern of the Department. The Department has organized several International and National Conferences, Short Term Courses to grow the academic collaborations and to give exposure to our students. The Department has also been selected as 'DST-FIST' sponsored Department."]
+        },
+        {
+            "title": "Chemical Engineering>",
+            "url": "https://departments.nitj.ac.in/dept/ch/home",
+            "content": ["Chemical Engineering(CH)","Chemical Engineering education and research and development by offering B. Tech., M. Tech., and PhD programs. Its Alumni are established entrepreneurs and serving in eminent positions in industries, research organizations, and academic institutions in India and abroad. The Department has state-of-the-art laboratories equipped with sophisticated equipment and analytical research instruments to facilitate modern teaching and cutting-edge research and development activities."]
+        },
+        {
+            "title": "Civil Engineering>",
+            "url": "https://departments.nitj.ac.in/dept/ce/home",
+            "content": ["Civil Engineering(CE)","Established in the year 1990, The Department of Civil Engineering holds the distinction of being the oldest among the 12 departments at Dr. B R Ambedkar NIT Jalandhar. Over the years, it has evolved into a distinguished center for excellence, fostering innovation and conducting impactful research. The department boasts a dedicated faculty and staff, highly motivated students, and an environment that promotes innovative teaching and learning. The department offers a range of academic programs, including the undergraduate program B. Tech in Civil Engineering, postgraduate programs such as M. Tech in Geotechnical & Geo-environmental Engineering, and Structural & Construction Engineering. In addition, the department also offers Ph.D. programs to cater to the research aspirations of its students. Department of Civil Engineering at Dr. B R Ambedkar NIT Jalandhar has established itself as a prominent institution, equipping students with the necessary skills and knowledge to succeed in the field of civil engineering."]
+        },
+        {
+            "title": "Computer Science and Engineering>",
+            "url": "https://departments.nitj.ac.in/dept/cse/home",
+            "content": ["Computer Science and Engineering(CSE)","Located in Jalandhar district of Punjab, NIT Jalandhar enjoys a really scenic environment and pleasant weather. Established in the year 1987, as REC Jalandhar, NIT Jalandhar has been declared as the Institute of National Importance under the Act of Parliament, 2007. Established in 1990 as the Department of Computer Science & Engineering, we have an excellent & rich history and an outstanding record of contributions to the profession and community. The Department is well recognized for excellence in facilities and teaching."]
+        },
+        {
+            "title": "Electronics and Communication Engineering>",
+            "url": "https://departments.nitj.ac.in/dept/ece/home",
+            "content": ["Electronics and Communication Engineering(ECE)","The Department of Electronics & Communication Engineering, Dr. B. R. Ambedkar National Insitute of Technology, Jalandhar has been offering B.Tech programme in Electronics & Communication Engineering since 1989, M.Tech programme in Electronics & Communication Engineering (Full-Time) since 2006 and M.Tech programme in VLSI Design (Full Time) since 2008. The Department also offers Ph.D. programmes in various specializations, such as Biomedical Engineering, VLSI Design, Nanoelectronics and Communication Systems etc. The Department has presently 19 faculty members with PhD degrees from reputed Institutes. The Department has established state-of-the-art laboratories for B.Tech, M.Tech and Ph.D. research work. The Department has advanced Biomedical Signal Processing and Telemedicine Laboratory, VLSI Design Laboratory, Nanoelectronics Research Lab and Communication System Laboratory with sophisticated research equipment. The department has an advanced VLSI lab sponsored by Ministry of Communication and IT under SMDP-II project. In the VLSI lab Cadance, Mentor graphic, Synopsys, Magma, Coware and Xilinx softwares are available for project/research work."]
+        },
+        {
+            "title": "Electrical Engineering>",
+            "url": "https://departments.nitj.ac.in/dept/ee/home",
+            "content": ["Electrical Engineering(EE)","The Department of Electrical Engineering commenced its Bachelor of Technology (B. Tech) degree program in 2013. Electrical Engineering is a well-diversified discipline. Many areas of specialization namely Control Systems, Power System, High Voltage, Electric Drives etc. have grown by leaps and bounds and have emerged as full-fledged disciplines in themselves. Training students in all these areas is an uphill and challenging task. Therefore, every effort has been made while developing curricula to ensure full cognizance of all value elements among students. A holistic approach has been adopted while framing curriculum, updating infrastructural facilities and improving coaching methods. The teaching scheme has been enriched by the valuable inputs of experts of respective fields from prestigious institutions / organizations such as IIT Roorkee and IIT Delhi, R&D organizations like CSIO and leading industries of the region. The Department is consolidating its efforts to promote industrial research and consultancy in appropriate areas of Electrical Engineering."]
+        },
+        {
+            "title": "Humanities and Management>",
+            "url": "https://departments.nitj.ac.in/dept/hm/home",
+            "content": ["Humanities and Management(HM)","Department of Humanities and Management have been offering two year regular MBA Program since 2013 along with the core and elective courses to the B Tech students since 1989. The department offers consultancy and full / part time Ph.D. program in varied domains of Financial Management, Cost Accounting, Entrepreneurship Development and Management, Marketing Management, Human Resource Management, English Literature & Linguistics, Communication and Soft Skills."]
+        },
+        {
+            "title": "Industrial and Production Engineering>",
+            "url": "https://departments.nitj.ac.in/dept/ipe/home",
+            "content": ["Industrial and Production Engineering(IPE)","The Department of Industrial & Production Engineering, Dr. B R Ambedkar NIT Jalandhar has been offering Undergraduate Program (B. Tech. in Industrial & Production Engineering) since 1989, Post- graduate Program in Industrial Engineering and Manufacturing Technology. The course curriculum has been designed compatible to the existing and emerging needs of the industry. The autonomy of the Institute is a privilege to the department in terms of flexibility to modify and revise courses/syllabi at different time intervals to cater contemporary needs of the Industry. The Department has established state-of-the-art facilities in various laboratories. Presently (35) thirty-five research scholars are registered in the department for pursuing Ph.D. Adequate inputs of practical training, industrial tours, case studies"]
+        },
+        {
+            "title": "Information Technology>",
+            "url": "https://departments.nitj.ac.in/dept/it/home",
+            "content": ["Information Technology(IT)","Established in the year 2013, the Department of Information Technology(IT) is the youngest among the 12 departments at Dr B R Ambedkar NIT Jalandhar. Since then, it has grown to be a centre for excellence, innovation and research with dedicated faculty & staff, highly motivated students, state-of-the-art facilities, and an innovative teaching-learning environment. The department offers undergraduate programmes B. Tech in Information Technology and post-graduate programme M. Tech in Data Analytics, and Ph.D. programmes are also offered by the department. . Our students have consistently achieved excellent placements year after year and have demonstrated a high level of success at pursuing post-graduate and doctoral studies at leading universities world-wide (as per QS World University Rankings). Many NITJ-IT graduates are working in reputed industries such as Microsoft, Amazon, Increff, and Samsung etc."]
+        },
+        {
+            "title": "Instrumentation and Control Engineering>",
+            "url": "https://departments.nitj.ac.in/dept/ice/home",
+            "content": ["Instrumentation and Control Engineering(ICE)","The Department of Instrumentation and Control Engineering (ICE) commenced its Bachelor of Technology (B.Tech) degree programme in 1990 with the intake of 30 students. Initially, the degrees were awarded by Guru Nanak Dev University Amritsar, subsequently, the Institute was affiliated to the newly set-up Punjab Technical University for the period July 1997 through October 2002. The Institute was accorded Deemed University Status w.e.f. October 17, 2002, under the aegis of Ministry of Human Resource Development, New Delhi. Then, the Ministry of Human Resource Development, Government of India has declared the Institute as ―Institute of National Importance under the act of Parliament-2007. Connecting the disciplines of Electrical, Electronics, Mechanics, Computer Science and Control engineering is the core competence of modern engineering. Many areas of specialization namely Process Instrumentation, Control Systems, Biomedical Engineering, Robotic, Wireless Networking etc., equips the Engineers for quick adaptation to new fields of technology and new areas of employment. "]
+        },
+        {
+            "title": "Public Grievances Cell>",
+            "url": "https://www.nitj.ac.in/admin/public-g-cell.html",
+            "content": [
+                "Public Grievances Cell",
+                "Contacts for Public Grievance",
+                "Librarian",
+                "Ext: 3601",
+                "Principal Scientific Officer",
+                "Ext: 3503",
+                "Public Grievances Portal",
+                "Note",
+                "If complainants fail to get redress to Grievances from Dr B R Ambedkar National Institute of Technology\n        Jalandhar, they can approach Directorate of Public Grievance (DPG) at https://dpg.gov.in/ for redress of\n        grievance."
+            ]
+        },
+        {
+            "title": "Mathematics and Computing>",
+            "url": "https://departments.nitj.ac.in/dept/ma/Home",
+            "content": ["Mathematics and Computing(MA)","The Department of Mathematics and Computing at NIT Jalandhar is dedicated to the field of mathematics education and research. It offers postgraduate (M.Sc.) and doctoral (Ph.D.) programs in Mathematics. The faculty members in the department are highly qualified and experienced in their respective areas of expertise. They actively engage in research activities and strive to create a conducive learning environment for the students."]
+        },
+        {
+            "title": "Mechanical Engineering>",
+            "url": "https://departments.nitj.ac.in/dept/me/home",
+            "content": ["Mechanical Engineering(ME)","The Department of Mechanical engineering was founded in 1990 and has grown as one of the dynamic departments of the Institute over the last three decades. The department is a Govt. of India (FIST)-sponsored department. The department offers B Tech, M Tech (Design & Thermal) and PhD programmes. The B.Tech program is accredited by the NBA. Our alumni are working in reputed organizations such as NTPC, ONGC, IOCL, HAL, BPCL, MARUTI, VOlVO, TATA, ASHOK LEYLAND etc. Also students have demonstrated a high level of success at pursuing post-graduate and doctoral studies at leading universities world-wide. Many post graduates and Doctorate alumni are working at R&D sector and Faculty at IITs & NITs. Apart from these few are entrepreneur."]
+        },
+        {
+            "title": "Textile Technology>",
+            "url": "https://departments.nitj.ac.in/dept/tt/home",
+            "content": ["Textile Technology(TE)","The Department of Textile Technology has its existence since the inception of the Institute, National Institute of Technology Jalandhar, formerly known as Regional Engineering College. Since 1989, the department is steadily progressing to new heights and considering its latest developments and achievements, the days are not far when it will stand in parallel with other national institutions offering education on textile and allied fields specifically, fibres, polymers, and technical textiles. The Department offers the education in various fields of textiles through UG, PG, and PhD program, where in addition to regular teaching, UG students may opt for interns ranging from 4 to 8 weeks, which benefit them with exposure to industrial culture. The team of brilliant and extraordinary 17 faculty members of the department, honored with several national and international awards are working tirelessly in elevating the department to new heights, and the present international conference, third in series, is the live example of the same. Several prestigious awards like Lifetime Achievement Award by Venus International Chennai, Outstanding Paper Presentation Award by Manchester, UK, Wall of Fame Award by ULEKTZ, Prof. Indira Parikh 50 Women in Education Leaders Award by World Education Congress are in the name of faculty members of the department. Faculty members have also been distinguished as associate editor and member of editorial board of reputed journals in the domain of textile."]
+        },
+        {
+            "title": "Women Cell>",
+            "url": "https://www.nitj.ac.in/admin/women-cell.html",
+            "content": [
+                "Women Cell",
+                "Introduction",
+                "The Women Cell at Dr B R Ambedkar National Institute of Technology, Jalandhar was established in 2006 to ensure\n        the dignity of women at work place.",
+                "Objectives",
+                "What constitutes Sexual Harrasament",
+                "The definition of sexual harassment in the Sexual Harassment Act is in line with the Supreme Court's\n          definition in the Vishaka Judgment and includes any unwelcome sexually determined behaviour (whether directly\n          or by implication)",
+                "Procedure to File/Report a Complaint",
+                "The complainant will have to submit a written and signed complaint addressed to the Women Cell.",
+                "Any woman employee academic/ non-academic (including contractual, casual and temporary) and female student of\n          NIT Jalandhar can approach the Cell.",
+                "womencell@nitj.ac.in",
+                "Women Helpline Number: 181",
+                "Faculty Coordinator",
+                "Dr Damanjit Kaur",
+                "Associate Professor,Department of Mathematics",
+                "womencell@nitj.ac.in"
+            ]
+        },
+        {
+            "title": "Center for Energy and Environment>",
+            "url": "https://departments.nitj.ac.in/dept/cee/Home",
+            "content": ["Center for Energy and Environment(CEE)","Centre for Energy and Environment is dedicated to advancing research, education, and outreach in the fields of energy and environmental studies. We are committed to exploring innovative solutions that address the global challenges of sustainable energy production, environmental conservation, and climate change mitigation. At the Centre for Energy and Environment, our mission is to foster interdisciplinary collaboration among researchers, students, and experts from various fields. By combining expertise from engineering, science, policy, and economics, we aim to drive impactful research and promote the adoption of environmentally friendly and efficient energy technologies. Our centre is at the forefront of cutting-edge research in areas such as renewable energy sources, energy storage systems, electric vehicle, sustainable buildings, energy efficiency, and environmental policy analysis. We collaborate with industry partners, government agencies, and international organizations to develop solutions that have real-world applications and positive impacts on society. Presently, M.Tech Renewable Energy Program was started in collaboration with Sardar Swaran Singh National Institute of Bio-Energy (SSS-NIBE), Kapurthala run under the Ministry of New and Renewable Energy (MNRE), Government of India in the year 2020."]
+        },
+        {
+            "title": "Physics>",
+            "url": "https://departments.nitj.ac.in/dept/ph/home",
+            "content": ["Physics(PH)","The Department of Physics started in 1989 at the erstwhile REC, Jalandhar. Originally oriented towards teaching undergraduate (B.Tech.) students, the department has come a long way since – today the department in addition runs M.Sc. and Ph.D. programs. The department strives to emerge as a premier centre of Physics education and research across the country. Our research is organized within the general areas of Condensed Matter Physics, High Energy Physics, Nuclear Physics and Plasma Physics."]
+        },
+        {
+            "title": "System of Evaluation and Grant of Division>",
+            "url": "https://www.nitj.ac.in/admin/SystemGrantDivision.html",
+            "content": [
+                "SYSTEM OF EVALUATION AND GRANT OF DIVISION/CLASS"
+            ]
+        },
+        {
+            "title": "UMC Rules>",
+            "url": "https://www.nitj.ac.in/admin/UMC.html",
+            "content": [
+                "UMC rules"
+            ]
+        },
+        {
+            "title": "Academic Circulars & Notices>",
+            "url": "https://www.nitj.ac.in/admin/notices.html",
+            "content": [
+                "Academic Circulars &\n          Notices"
+            ]
+        },
+        {
+            "title": "General FAQs>",
+            "url": "https://www.nitj.ac.in/admin/faq.html",
+            "content": [
+                "Frequently asked questions"
+            ]
+        },
+        {
+            "title": "Grade Calculation>",
+            "url": "https://www.nitj.ac.in/admin/Grade.html",
+            "content": [
+                "grade calculation",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "title": "Student Portal>",
+            "url": "https://v1.nitj.ac.in/erp/login",
+            "content": [
+                "Student Portal"
+            ]
+        }, 
+        {
+            "title": "Online Application for Verification of Degree>",
+            "url": "https://www.nitj.ac.in/admin/Oavd.html",
+            "content": [
+                "Online Application for verification of degree",
+                "Verification of Degree/Certificates",
+                "",
+                "",
+                "An agency willing to verify the academic record of a student, who is a graduate from National\n                        Institute of Technology Jalandhar, can do so by sending an application on the firm’s Letter head\n                        mentioning the Purpose of the verification along with following enclosures:",
+                "i) Xerox copy of the certificate(s) to be verified",
+                "ii) Signed authorization from the candidate",
+                "",
+                "",
+                "",
+                "(1)  Verification from Police, Government Agencies & Vigilance Clearance\n                        (CID &\n                        other intelligence agencies):",
+                "(2)  Any other Agency/Person:",
+                "In India:",
+                "(inclusive of Postal Charges), for each\n                        individual\n                        verification.",
+                "In Abroad:",
+                "(inclusive of Postal Charges), for each individual\n                        verification",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "May kindly note that it takes an average 15 working days from the day of receiving the above\n                        documents to process an application (this excludes postal time)."
+            ]
+        },
+        {
+            "title": "Results>",
+            "url": "https://v1.nitj.ac.in/erp/login",
+            "content": [
+                "Results"
+            ]
+        },
+        {
+            "title": "CGPA Criteria and Medium of Education>",
+            "url": "https://www.nitj.ac.in/admin/Cgpa.html",
+            "content": [
+                "CGPA Criteria and Medium of Education",
+                "CUMMULATIVE GRADE POINT AVERAGE"
+            ]
+        },
+        {
+            "title": "Academic Section Officials>",
+            "url": "https://www.nitj.ac.in/admin/Contact.html",
+            "content": [
+                "Academic section officials",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "title": "Bachelor of Technology>",
+            "url": "https://www.nitj.ac.in/admin/BTech.html",
+            "content": [
+                "Bachelor of Technology (BTech)"
+                
+            ]
+        },
+        {
+            "title": "Master of Technology>",
+            "url": "https://www.nitj.ac.in/admin/Mtech.html",
+            "content": [
+                "Master of Technology (MTech)",
+                "Two years regular M.Tech Programmes (Through\n                        CCMT)",
+                "Two years M.Tech Programmes (Self-Sponsored)"
+            ]
+        },
+        {
+            "title": "Master of Business Administration>",
+            "url": "https://www.nitj.ac.in/admin/MBA.html",
+            "content": [
+                "Masters of Business Administration (MBA)",
+                "Two years regular MBA Programmes"
+            ]
+        },
+        {
+            "title": "Master of Science>",
+            "url": "https://www.nitj.ac.in/admin/MSC.html",
+            "content": [
+                "Masters of\n                    Science (M.Sc.)",
+                "Two years regular M.Sc. Programmes"
+            ]
+        },
+        {
+            "title": "Post Graduate Diploma>",
+            "url": "https://www.nitj.ac.in/admin/PgDiploma.html",
+            "content": [
+                "Post Graduate Diploma(PG)",
+                "One year PG Diploma in Management Programme",
+                "PG Diploma in Engineering Programmes"
+            ]
+        },
+        {
+            "title": "Doctor of Philosophy>",
+            "url": "https://www.nitj.ac.in/admin/Phd.html",
+            "content": [
+                "Doctor of Philosophy(Phd)"
+            ]
+        },
+        {
+            "title": "Convocation>",
+            "url": "https://www.nitj.ac.in/admin/Convocation.html",
+            "content": [
+                "Convocation"
+                
+            ]
+        },
+        {
+            "title": "Past Convocations>",
+            "url": "https://www.nitj.ac.in/admin/PastConvocation.html",
+            "content": [
+                "Past Convocation"
+            ]
+        },
+        {
+            "title": "International Students>",
+            "url": "https://www.nitj.ac.in/admin/international.html",
+            "content": [
+                "International Student",
+                "Introduction",
+                "Welcome to NITJ (Dr. B. R. Ambedkar National Institute of Technology) in Jalandhar, India! We're excited to have international students to join our esteemed institute for their education journey. NITJ is renowned for its exceptional academic programs and dedication to nurturing talent, innovation, and research. Our institution is committed to providing top-notch education and fostering a vibrant multicultural environment. With a rich history and a commitment to excellence, NITJ is an ideal place for you to pursue your academic and personal aspirations. Feel free to explore the wide range of academic disciplines, engage with our experienced faculty members, and immerse yourself in the vibrant campus life that NITJ offers.",
+                "",
+                "From the Desk of Dean International Affairs",
+                "We are delighted to extend you a warm welcome and introduce you to the vibrant and diverse\n                community of students, scholars, and researchers at Dr B R Ambedkar National Institute of\n                Technology, Jalandhar (NITJ). At NITJ, we are dedicated to providing you with an exceptional\n                education that equips you to succeed in a dynamic and ever-evolving world. We highly value the\n                rich perspectives that international students like you bring to our campus. Your presence is not\n                only valued but crucial to the tapestry of our community. At NITJ, we have high-end teaching\n                and research facilities for Under Graduate and Graduate Students and I earnestly hope that you\n                will be able to fulfill your ambitions.",
+                "Dr. S P Singh",
+                "Dean International Affairs",
+                "",
+                "Financial Incentives for International Students",
+                "The institute offers following financial incentives for the international students",
+                "Fee - Structure for International Students",
+                "",
+                "The mess charges are subjected to change as per the existing rates; Further, the institute reserves the right to change the amount of fee charged if the conversion rate of US dollars decreases in the future."
+            ]
+        },
+        {
+            "title": "Why NITJ",
+            "url": "https://www.nitj.ac.in/admin/ranking.html",
+            "content": [
+                "Why NITJ"
+            ]
+        },
+        {
+            "title": "Explore NITJ>",
+            "url": "https://www.nitj.ac.in/admin/explore.html",
+            "content": [
+                "Explore NITJ"
+            ]
+        },
+        {
+            "title": "Discover Student Life>",
+            "url": "https://www.nitj.ac.in/admissions/student_life.html",
+            "content": [
+                "Discover Student Life",
+                "Beautiful campus",
+                "Cultural Fest",
+                "Placements",
+                "No Ragging"
+            ]
+        },
+        {
+            "title": "Anti Ragging Cell>",
+            "url": "https://www.nitj.ac.in/admissions/antiRagging.html",
+            "content": [
+                "Anti Ragging Cell"
+            ]
+        },
+        {
+            "title": "National anti-Ragging Programme>",
+            "url": "https://www.antiragging.in",
+            "content": [
+                "National anti-Ragging Programme",
+                "Ragging is a disturbing reality in the higher education system of our country.",
+                "Despite the fact that over the years ragging has claimed hundreds of innocent lives and has ruined\r\n              careers of thousands of bright students,\r\n              the practice is still perceived by many as a way of ‘familiarization’ and an ‘initiation into the real\r\n              world’ for young college-going students.",
+                "Other organisations/bodies working in this field have also attempted to define ragging,\r\n              the variety of definitions being reflective of differences in perspective.",
+                "",
+                "Fill Undertaking",
+                "Fill Compliance",
+                "Register Complaint",
+                "Undertaking Document",
+                "Centre for Youth (C4Y)is\r\n              working as Monitoring Agency in association with the Ministry of Education, Government of India and the\r\n              University Grant\r\n              Commission (UGC),\r\n              Government of India to support the National Ragging Prevention Programme in the country.\r\n              C4Y monitors 24x7 anti-ragging helpline, compliances, technological support and creates awareness to\r\n              demote ragging in universities, colleges across India.",
+                "Ragging has ruined countless innocent lives and careers.",
+                "In order to eradicate it, Hon’ble Supreme\r\n              Court in Civil Appeal No. 887 of 2009, passed the judgement wherein guidelines were issued for setting\r\n              up of a\r\n              Central Crisis\r\n              Hotline\r\n              and Anti-Ragging database.",    
+                "antiragging@c4yindia.org"
+            ]
+        }
+    ]
+}
