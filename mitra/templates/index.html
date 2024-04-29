@@ -48,6 +48,7 @@
 		</div>
 		
 		<script>
+
 			$(document).ready(function() {
 				function getCurrentTime() {
 					const date = new Date();
@@ -55,18 +56,20 @@
 					const minute = date.getMinutes().toString().padStart(2, '0');
 					return hour + ":" + minute;
 				}
-
+				//ADDING INITIAL CHAT OF THE BOT
 				let Greetings = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img width="48" height="48" src="https://img.icons8.com/color/48/message-bot.png" alt="message-bot"/></div><div class="msg_cotainer">Greetings &#128075<span class="msg_time">' + getCurrentTime() + '</span></div></div>';
         		$("#messageFormeight").append(Greetings);
 				let quest = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img width="48" height="48" src="https://img.icons8.com/color/48/message-bot.png" alt="message-bot"/></div><div class="msg_cotainer">Is there anything you need assistance with?<span class="msg_time">' + getCurrentTime() + '</span></div></div>';
 				$("#messageFormeight").append(quest);
 				let headers = {'About NITJ': 'About_NITJ', 'Administration': 'Administration', 'Leadership': 'Leadership', 'Cells': 'Cells', 'Departments': 'Departments', 'Academics': 'Academics', 'Admissions': 'Admissions', 'Alumni': 'Alumni', 'Life at NITJ': 'Life_at_NITJ','Other':""};
+				// ADDING SOME SPECIFIC DOMAIN OPTIONS FOR USER TO CHOOSE FROM
 				$("#messageFormeight").append(`<div class="options d-flex flex-wrap"></div>`)
 				Object.keys(headers).forEach(function(key) {
 					let headerHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" class="rounded-circle user_img_msg hidden"></div><div class="msg_cotainer msg_contain">' + key + '<span class="msg_time">' + getCurrentTime() + '</span></div></div>';
 					$(".options").append(headerHtml);
 				});
-					// Add event listener to message options to submit them as user input
+				
+				//ADDING EVENT LISTENER WHICH WORKS ON CLICKING
 				$("#messageFormeight").on("click", ".msg_contain", function() {
 					let optionText = $(this).text().trim();
 					optionText=optionText.slice(0,-5)
@@ -79,6 +82,7 @@
 					location.reload();
 				});
 
+				//HANDLING USER INPUT TO CREATE BOT RESPONSE
 				$("#messageArea").on("submit", function(event) {
 					const date = new Date();
 					const hour = date.getHours().toString().padStart(2, '0');
